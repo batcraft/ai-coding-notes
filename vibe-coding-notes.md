@@ -21,13 +21,13 @@
 * We live in a world of frameworks and mature patterns
   * database: golang-migrate
   * ORM: gorm
-  * Frontend: vue.js
-  * Frontend Components: PrimeVue, tailwind
+  * Frontend: vue.js, tailwind, pinia
+  * Frontend Components: PrimeVue
   * Logging: slog  
 * LLMs are good at doing things when the pattern is established already
 * A lot of the start of an app is boilerplate and setup
 * I think my best day was ~15,000 lines of code. And Miles has surely beaten that
-
+  
 ## LLM Codegen doesn't have to be your stereotype of "vibe coding"
 
 * You, and tests, and the LLM itself, can tend to this code and make sure it's not slop
@@ -36,4 +36,8 @@
 
 ## Fun "tail-eating" moments
 
-* Have Github Copilot review your 
+* Have Copilot on github.com review your PR
+  * (They really need to stop calling *everything* Copilot)
+* Your IDE agent calls `gh pr view <PR_NUMBER> --comments`
+* Your IDE robot addresses the comments from the github.com robot
+* Lather, rinse, repeat the virtuous cycle
