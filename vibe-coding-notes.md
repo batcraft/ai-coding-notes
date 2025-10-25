@@ -41,3 +41,11 @@
 * Your IDE agent calls `gh pr view <PR_NUMBER> --comments`
 * Your IDE robot addresses the comments from the github.com robot
 * Lather, rinse, repeat the virtuous cycle
+
+## Every LLM has a personality
+
+* GPT 5-mini: high derp level, spirals
+* Claude: overconfident, spirals less often but still spirals
+* .github/copilot-instructions.md. 
+  * Begins as a context guide to the app, becomes a list of grievances 
+  * Tell the LLM what annoys you so that it can (try to) stop
