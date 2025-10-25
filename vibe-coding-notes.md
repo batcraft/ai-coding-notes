@@ -16,6 +16,11 @@
   * We test against a live database using the same migrations (not mocks)
 * You'll have to pay attention to test performance, because you are writing a lot and executing them often  
 
+## Create application instructions
+* https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions
+* Begins as a context guide to the app, becomes a list of grievances 
+  * Tell the LLM what annoys you so that it can (try to) stop
+
 ## Why Greenfield is Easier
 
 * We live in a world of frameworks and mature patterns
@@ -46,6 +51,3 @@
 
 * GPT 5-mini: high derp level, spirals
 * Claude: overconfident, spirals less often but still spirals
-* .github/copilot-instructions.md. 
-  * Begins as a context guide to the app, becomes a list of grievances 
-  * Tell the LLM what annoys you so that it can (try to) stop
