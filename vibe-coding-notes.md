@@ -82,7 +82,7 @@
 * Claude 4.5: overconfident, spirals less often but still spirals
 * GPT 5-Codex: quieter, more organized, slow, better? maybe nefarious
 * The models since September are better than the models before September.
-* The models next year will be much better than this year. They are already pretty good.
+* The models next year will be much better than this year. They are already good.
 * I fully believe this is where everything is going.
   * We're not going to be coding by hand.
   * We need to figure out how to use these tools, and use them well. When we do, we'll be unstoppable
