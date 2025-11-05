@@ -21,8 +21,6 @@
   * We have Playwright e2e tests
 * You'll have to pay attention to test performance, because your robot is writing a lot and executing them often
 
-![Steve Harvey realizing how much code the robot is writing. His demanor shifts from joy to concern](ab5vgp.jpg)
-
 ## But... the robot is writing the tests
 
 * I was told "don't trust the robot" and that all codegen should be reviewed by a human
@@ -37,7 +35,9 @@
   * Architecture analysis
 * Engineers still need to review the code. But how much?
 * I want to pit robots against robots.
-* I am still figuring this part out 
+* I am still figuring this part out
+
+![Steve Harvey realizing how much code the robot is writing. His demanor shifts from joy to concern](ab5vgp.jpg)
 
 ## Documents, instructions, context, context, context
 * https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions
