@@ -21,6 +21,8 @@
   * We have Playwright e2e tests
 * You'll have to pay attention to test performance, because your robot is writing a lot and executing them often
 
+![Steve Harvey realizing how much code the robot is writing. His demanor shifts from joy to concern](ab5vgp.jpg)
+
 ## But... the robot is writing the tests
 
 * I was told "don't trust the robot" and that all codegen should be reviewed by a human
