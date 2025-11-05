@@ -63,6 +63,7 @@
 * You, and tests, and the robot itself, can tend to this code and make sure it's not slop
 * That takes a lot of scaffolding.
 * Watch the robot. Let it cook, but know what it's doing, as best you can.
+* Give it some safe commands to auto-execute. Just a few.
 * Good prompting == good communication
 
 ## Fun "tail-eating" moments
@@ -72,10 +73,16 @@
 * Your IDE agent calls `gh pr view <PR_NUMBER> --comments`
 * Your IDE robot addresses the comments from the github.com robot
 * Lather, rinse, repeat the virtuous cycle
+  * This catches nitpicks really well. I don't know if it's the whole shebang, yet.
 * I want to pipe low-hanging static code analysis results to a robot on Github that just takes care of the results. Get back to me on this
 
-## Every LLM has a personality
+## Every robot has a personality.
 
 * GPT 5-mini: high derp level, spirals
 * Claude 4.5: overconfident, spirals less often but still spirals
 * GPT 5-Codex: quieter, more organized, slow, better? maybe nefarious
+* The models since September are better than the models before September.
+* The models next year will be much better than this year. They are already pretty good.
+* I fully believe this is where everything is going.
+  * We're not going to be coding by hand.
+  * We need to figure out how to use these tools, and use them well. When we do, we'll be unstoppable
