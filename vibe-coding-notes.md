@@ -11,15 +11,14 @@
 ## And I cannot emphasize this enough, Tests
 
 * Write tests as soon as you write code
-  * (That is, tell the LLM to write them)
+  * (That is, tell the robot to write them)
 * Make sure your tests are strong and representative
   * We started with unit tests and e2e tests
   * We test against a live database using the same migrations
   * We have BDD / features
   * We have client-side tests (Vitest)
   * We have Playwright e2e tests
-  * You name it
-* You'll have to pay attention to test performance, because you are writing a lot and executing them often
+* You'll have to pay attention to test performance, because your robot is writing a lot and executing them often
 
 ## But... the robot is writing the tests
 
