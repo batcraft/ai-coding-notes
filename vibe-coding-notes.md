@@ -5,6 +5,7 @@
 * You have been doing this for years, by the book. You are a veteran that has seen it all and knows the score
 * Your new partner has unconventional, disruptive methods that bring stunning results
 * Your new partner is also an erratic psychopath who is going to get you killed
+  * If you don't have a story of the robot doing something completely insane, you will have one soon.
 * You have to rein your partner in while letting your partner push you out of your comfort zone. Mutual growth
 * I have never seen *Lethal Weapon*
 
@@ -24,7 +25,7 @@
 
 * I was told "don't trust the robot" by another robot and that all codegen should be reviewed by a human
 * I'm not comfortable with that. What's the point of this velocity, then?
-* But there has to be some oversight. *See above re: erratic psychopath*
+* But there has to be some oversight. *See above re: erratic psychopath.*
 * Defense in depth: do more with your CI. Much more
   * Mutation testing
   * Flaky test analysis
