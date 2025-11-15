@@ -23,7 +23,7 @@
 
 ## But... the robot is writing the tests
 
-* I was told "don't trust the robot" and that all codegen should be reviewed by a human
+* I was told "don't trust the robot" and that all codegen should be reviewed, line by line, by a human
 * I was told this by... another robot
 * I'm not comfortable with that. What's the point of this velocity, then?
 * But there has to be some oversight. *See above re: erratic psychopath.*
