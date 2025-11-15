@@ -72,8 +72,9 @@
 
 * Have Copilot on github.com review your PR
   * (They really need to stop calling *everything* Copilot)
-* Your IDE agent calls `gh pr view <PR_NUMBER> --comments`
-* Your IDE robot addresses the comments from the github.com robot
+* ~~Your IDE agent calls `gh pr view <PR_NUMBER> --comments`~~
+* ~~Your IDE robot addresses the comments from the github.com robot~~
+* Github.com copilot can just address the comments now with new PRs. Let it cook and rebase them in.
 * Lather, rinse, repeat the virtuous cycle
   * This catches nitpicks really well. I don't know if it's the whole shebang, yet.
 * I want to pipe low-hanging static code analysis results to a robot on Github that just takes care of the results. Get back to me on this
