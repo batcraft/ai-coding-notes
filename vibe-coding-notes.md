@@ -81,8 +81,12 @@
 
 ## Every robot has a personality.
 
+* THESE ARE ALL SUBJECTIVE and this is not a SWE benchmarking resource
 * GPT 5-mini: high derp level, spirals
-* Claude 4.5: overconfident, spirals less often but still spirals
+* Sonnet 4.5: overconfident, spirals less often but still does sometimes
+  * Haiku 4.5: more overconfident, spirals more, talks more, you get what you pay for
+  * Lots of document generation, try hard, pick me
+  * I use Claude as my daily driver for architecture, life, it's great. Not sure why it doesn't click for me in a coding context. Shrug emoji 
 * GPT 5-Codex: quieter, more organized, slow, better? maybe nefarious
 * The models since September are better than the models before September.
 * The models next year will be much better than this year. They are already good.
