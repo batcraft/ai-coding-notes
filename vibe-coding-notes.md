@@ -1,4 +1,4 @@
-# What I am learning from vibe coding a giant enterprise app :)
+# What I am learning from codegen on a big app (not a hobby app) :)
 
 ## LLM codegen is *Lethal Weapon*
 
