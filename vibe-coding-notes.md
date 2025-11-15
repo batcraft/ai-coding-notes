@@ -67,6 +67,8 @@
 * Watch the robot. Let it cook, but know what it's doing, as best you can.
 * Give it some safe commands to auto-execute. Just a few.
 * Good prompting == good communication
+* Make it tell you a plan when it executes. READ THE PLAN (don't just click through) and understand it.
+* Look at your PRs and understand them. (not every line. understand the whole)
 * Review the codebase every few iterations. Don't read every line of code, but look for bad patterns
   * New components when re-use would have worked (Code duplication can be a static code analysis step)
   * Giant files. (This can be a static code analysis step) 
