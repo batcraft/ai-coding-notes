@@ -67,6 +67,9 @@
 * Watch the robot. Let it cook, but know what it's doing, as best you can.
 * Give it some safe commands to auto-execute. Just a few.
 * Good prompting == good communication
+* Review the codebase every few iterations. Don't read every line of code, but look for bad patterns
+  * New components when re-use would have worked (Code duplication can be a static code analysis step)
+  * Giant files. (This can be a static code analysis step) 
 
 ## Fun "tail-eating" moments
 
@@ -92,4 +95,7 @@
 * The models next year will be much better than this year. They are already good.
 * I fully believe this is where everything is going.
   * We're not going to be coding by hand.
+  * We have to pit robots against robots. Robot solutions for robot problems
+  * We have to let go of the memory of that elegant one line of code that did it so well and so sweet. Yes, it was great. Let it go.
+  * We also have to let go of the nostalgic fantasies of human-generated code. LLM codegen has problems, yes, but most human-generated code is not poetry
   * We need to figure out how to use these tools, and use them well. When we do, we'll be unstoppable
